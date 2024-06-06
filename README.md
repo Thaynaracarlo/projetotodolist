@@ -1,14 +1,14 @@
-# projetotodolist
+# Projetotodolist
 Este projeto é uma lista de tarefas simples, usando HTML, Javascript e CSS.
 
 #
 
-## sobre projeto To do list
+## Sobre projeto To do list
 O projeto to do list foi realizado e composto pela seguinte matéria:
 
 #
 
-## programação web I
+## Programação web I
 Criamos esse site de uma lista de tarefas, usando o aplicativo Visual Studio Code.
 
 #
@@ -18,7 +18,7 @@ To do list foi criado durante as aulas de programação web I, para criação de
 
 #
 
-## imagem site:
+## Imagem site:
 
 <img src="imagem site.png" width="75%"> <br>
 
